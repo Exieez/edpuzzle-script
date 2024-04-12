@@ -195,7 +195,7 @@ function openPopup(assignment) {
   <hr>
   <p style="font-size: 12px">Made by: <a target="_blank" href="https://dibash.com">dibash</a>  | How To Use: <a target="_blank" href="dibash.com/edpuzzle">dibash.com/edpuzzle</a>
   <p style="font-size: 12px">Note: This is for educational purposes, This is not used to abuse the Edpuzzle API</p>
-  <p style="font-size: 12px">Available now from our <a target="_blank" href="https://edpuzzle.hs.vc/discord.html">Discord server</a>: <i> An open beta of a completely overhauled GUI, with proper mobile support, ChatGPT integration for open-ended questions, and more. </i></p>`;
+  <p style="font-size: 12px">There is no support for this, there is no clue on when this will be fixed, also huge thanks to ading2210  <i> There will be an update where Open Ended Questions will done by complete AI's so stay tuned. </i></p>`;
   popup = window.open("about:blank", "", "width=600, height=400");
   popup.document.write(base_html);
 
