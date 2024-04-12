@@ -1,29 +1,196 @@
-var validKeys = [{
-    key: "key1",
-    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
-}, {
-    key: "key2",
-    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
-}, {
-    key: "key3",
-    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
-}, {
-    key: "key4",
-    expiration: null // Will be updated dynamically
-}];
+var validKeys = [
+    {
+        key: "VELOH-SADLFJLDSJLKFSDFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDFLKJDSFKJDSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDJFJSDJFLKSDFDSF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFLKSDJFLKSDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-JSDFKJDSKFJSDKLFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSJFKDSJFKJDSFKJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKJFKJDSFKJDSFLD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDJKFJDSKFJSDKLFJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJDSKLFJK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SLDKFJSDKLFJDSKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJSDJKLFJDKLFD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFJSDKLFJK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJSDKFLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKFJDKSLJFK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDFKJDSKFJDSKLFJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKFJDSKFLJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDKSJFKDSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSFKJDKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSKFJDSKFLJDKLS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDKSFLJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDFLKJSDFKJDSKFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSKFJDKSLJFKLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKLJSDKLFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSLFJDSLKFJDSKLFD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDLKFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDKSFLKJSDKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SLDKFJDSKFJDLFKDJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSLFJDSKLFJDLKFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKLFJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSKFJDSLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFLJDKLFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKDSJFKJDLKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFJKDSJFKJDSKFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDKSJFKJDSKFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDKSFLJDKFLD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSKLFJDKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFJDKSJFKJDSKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSFKJDKSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJDSFKLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSLFJDSKFJDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSKLFJDKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFLJDKFLDJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDKFLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKDSJFKJDSKJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSKFLJDKFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    }
+];
+
 
 var accessKey = prompt("Please enter your access key:");
 
 // Check if the provided access key is valid and not expired
 var isValidKey = validKeys.some(function (keyObject) {
-    if (keyObject.key === accessKey && (keyObject.expiration === null || new Date(keyObject.expiration) > new Date())) {
-        // Update expiration dynamically if it's not null
-        if (keyObject.expiration !== null) {
-            keyObject.expiration = new Date(new Date().getTime() + 5 * 60000).toISOString(); // 5 minutes in milliseconds
-        }
-        return true;
-    }
-    return false;
+    return keyObject.key === accessKey && new Date(keyObject.expiration) > new Date();
 });
 
 if (isValidKey) {
@@ -120,7 +287,7 @@ if (isValidKey) {
             if (("" + this.status)[0] == "2") {
                 openPopup(assignment);
             } else {
-                alert(`Error: Status code ${this.status} recieved when attempting to fetch the assignment data.`)
+                alert(`Error: Status code ${this.status} received when attempting to fetch the assignment data.`)
             }
         });
     }
