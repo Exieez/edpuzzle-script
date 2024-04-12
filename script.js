@@ -7,13 +7,23 @@ var validKeys = [{
 }, {
     key: "key3",
     expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
+}, {
+    key: "key4",
+    expiration: null // Will be updated dynamically
 }];
 
 var accessKey = prompt("Please enter your access key:");
 
 // Check if the provided access key is valid and not expired
 var isValidKey = validKeys.some(function (keyObject) {
-    return keyObject.key === accessKey && new Date(keyObject.expiration) > new Date();
+    if (keyObject.key === accessKey && (keyObject.expiration === null || new Date(keyObject.expiration) > new Date())) {
+        // Update expiration dynamically if it's not null
+        if (keyObject.expiration !== null) {
+            keyObject.expiration = new Date(new Date().getTime() + 5 * 60000).toISOString(); // 5 minutes in milliseconds
+        }
+        return true;
+    }
+    return false;
 });
 
 if (isValidKey) {
