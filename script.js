@@ -193,8 +193,8 @@ function openPopup(assignment) {
     <p style="font-size: 12px" id="loading_text"></p>
   </div>
   <hr>
-  <p style="font-size: 12px">Made by: <a target="_blank" href="https://dibash.com">dibash</a>  | Website: <a target="_blank" href="https://edpuzzle.hs.vc">edpuzzle.hs.vc</a>
-  <p style="font-size: 12px">Licenced under the <a target="_blank" href="https://github.com/ading2210/edpuzzle-answers/blob/main/LICENSE">GNU GPL v3</a>. Do not reupload or redistribute without abiding by those terms.</p>
+  <p style="font-size: 12px">Made by: <a target="_blank" href="https://dibash.com">dibash</a>  | How To Use: <a target="_blank" href="dibash.com/edpuzzle">dibash.com/edpuzzle</a>
+  <p style="font-size: 12px">Note: This is for educational purposes, This is not used to abuse the Edpuzzle API</p>
   <p style="font-size: 12px">Available now from our <a target="_blank" href="https://edpuzzle.hs.vc/discord.html">Discord server</a>: <i> An open beta of a completely overhauled GUI, with proper mobile support, ChatGPT integration for open-ended questions, and more. </i></p>`;
   popup = window.open("about:blank", "", "width=600, height=400");
   popup.document.write(base_html);
