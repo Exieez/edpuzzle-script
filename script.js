@@ -1,1 +1,530 @@
-const _0x8c77a2=_0x293e;(function(_0x3db20d,_0x3a3ea1){const _0x5d2ad0=_0x293e,_0x296567=_0x3db20d();while(!![]){try{const _0x24e23b=-parseInt(_0x5d2ad0(0xa1))/0x1*(parseInt(_0x5d2ad0(0xe0))/0x2)+-parseInt(_0x5d2ad0(0xa9))/0x3+parseInt(_0x5d2ad0(0xde))/0x4*(parseInt(_0x5d2ad0(0x8e))/0x5)+parseInt(_0x5d2ad0(0x107))/0x6*(parseInt(_0x5d2ad0(0xa8))/0x7)+parseInt(_0x5d2ad0(0xb7))/0x8+parseInt(_0x5d2ad0(0x7a))/0x9*(-parseInt(_0x5d2ad0(0xc3))/0xa)+parseInt(_0x5d2ad0(0xd0))/0xb;if(_0x24e23b===_0x3a3ea1)break;else _0x296567['push'](_0x296567['shift']());}catch(_0x2a8aec){_0x296567['push'](_0x296567['shift']());}}}(_0x3af4,0xe1bb9));var validKeys=[{'key':_0x8c77a2(0x76),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xe8),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xa6),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xf7),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xea),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xbe),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xa0),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xae),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':'VELOH-DSFKJDSFKJDSKLFJK','expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x108),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x9a),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xb8),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xf3),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':'VELOH-DSFKJDSKFJDKSLJFK','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xb5),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xe9),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x84),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':'VELOH-KJSDJFKJDSFKJDKLF','expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xf4),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xb4),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x75),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':'VELOH-KJDSKFJDKSLJFKLDS','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-DSFKJDSFKLJSDKLFL','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xbd),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x78),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x7f),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-SLDKFJDSKFJDLFKDJ','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-DSLFJDSKLFJDLKFJD','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xc6),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xcd),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xbb),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x9b),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xf0),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0xd2),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x9d),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x104),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0x103),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-KJDSFJDKSJFKJDSKF','expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x92),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0x77),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0x98),'expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':'VELOH-KJSDJFKJDSKLFJDKF','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-DSKFJDSKFLJDKFLDJ','expiration':new Date(new Date()['getTime']()+0x5*0x3c*0x3e8)['toISOString']()},{'key':'VELOH-SDLKFJDSKFJDKFLDS','expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xfa),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)['toISOString']()},{'key':_0x8c77a2(0x8b),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()},{'key':_0x8c77a2(0xfc),'expiration':new Date(new Date()[_0x8c77a2(0x9e)]()+0x5*0x3c*0x3e8)[_0x8c77a2(0xb0)]()}],accessKey=prompt(_0x8c77a2(0x8f)),isValidKey=validKeys['some'](function(_0x3dff54){return _0x3dff54['key']===accessKey&&new Date(_0x3dff54['expiration'])>new Date();});function _0x293e(_0x5929fc,_0x1e9c81){const _0x3af4b4=_0x3af4();return _0x293e=function(_0x293eb2,_0x2e538b){_0x293eb2=_0x293eb2-0x75;let _0x51a1e1=_0x3af4b4[_0x293eb2];return _0x51a1e1;},_0x293e(_0x5929fc,_0x1e9c81);}function _0x3af4(){const _0x36df1b=['skipper','VELOH-DSFKJDSFKJSDKFLDS','VELOH-KJDSKFJDSKFLJDKLS','GET','Invalid\x20access\x20key\x20or\x20key\x20has\x20expired.\x20Please\x20enter\x20a\x20valid\x20key\x20to\x20use\x20this\x20tool.','VELOH-KJSDJFLKSDJFLKSDS','no\x20due\x20date','startDate','VELOH-KJSDJFKDSJFKJDSKJ','ext_submit','VELOH-SHOWCASE','hidden','getElementById','responseText','Please\x20run\x20this\x20script\x20on\x20an\x20Edpuzzle\x20assignment.\x20For\x20reference,\x20the\x20URL\x20should\x20look\x20like\x20this:\x0ahttps://edpuzzle.com/assignments/{ASSIGNMENT_ID}/watch','json','split','VELOH-SDLKFJDSKFJDKLFJD','VELOH-KJDSFKJDSKLFJDKLF','push','then','12FwejMg','VELOH-SLDKFJSDKLFJDSKLF','VELOH-SDFLKJSDFKJDSKFJL','VELOH-SADLFJLDSJLKFSDFS','VELOH-DSFKJDSFKJDSFKLDS','VELOH-SDLKFJDSKFJDLKFJL','\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20function\x20http_get(url,\x20callback)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20var\x20request\x20=\x20new\x20XMLHttpRequest();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20request.addEventListener(\x22load\x22,\x20callback);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20request.open(\x22GET\x22,\x20url,\x20true);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20request.send();\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20function\x20get_tag(tag,\x20url)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.log(\x22Loading\x20\x22+url);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20http_get(url,\x20function(){\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20((\x22\x22+this.status)[0]\x20==\x20\x222\x22)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20var\x20element\x20=\x20document.createElement(tag);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20element.innerHTML\x20=\x20this.responseText;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementsByTagName(\x22head\x22)[0].appendChild(element);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20else\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x22Could\x20not\x20fetch\x20\x22+url);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20get_tag(\x22style\x22,\x20base_url+\x22/app/popup.css\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20get_tag(\x22script\x22,\x20base_url+\x22/app/popup.js\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20get_tag(\x22script\x22,\x20base_url+\x22/app/videooptions.js\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20get_tag(\x22script\x22,\x20base_url+\x22/app/videospeed.js\x22);\x0a\x20\x20\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20\x20\x20<title>Answers\x20for:\x20','14178789IbSeJF','\x22\x20height=\x22108px\x22>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20id=\x22title_div\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2016px\x22><b>','edpuzzle.hs.vc','<p>','open','VELOH-SDLKFJDKSFLKJSDKF','createElement','assignment','Please\x20re-run\x20this\x20script\x20in\x20the\x20newly\x20opened\x20tab.\x20If\x20nothing\x20happens,\x20then\x20allow\x20popups\x20on\x20Schoology\x20and\x20try\x20again.','contentId','VELOH-KJDSFKJDKSJFKDSFL','Error:\x20Status\x20code\x20','send','<p\x20style=\x22font-size:\x2012px\x22>No\x20valid\x20multiple\x20choice\x20questions\x20were\x20found.</p>','value','addEventListener','append','VELOH-KJDSFKJDSKFLJDKFS','Fetching\x20assignments...','</p>','516280nPaeyF','Please\x20enter\x20your\x20access\x20key:','</li>','dueDate','VELOH-KJDSFKJDSFKJDKSFL','test','edpuzzle_data','choices','name','createdAt','VELOH-DSKFJDSLFJDSKFJDS','target','VELOH-DSFKJSDJKLFJDKLFD','VELOH-KJSDJFKDSJFKJDLKF','https://raw.githubusercontent.com/ading2210/edpuzzle-answers/main','VELOH-SDLKFJDKSFLJDKFLD','getTime','body','VELOH-DSKJFKJDSFKJDSFLD','4eTosCD','questions','/assignments/','Error:\x20Could\x20not\x20infer\x20the\x20assignment\x20ID.\x20Are\x20you\x20on\x20the\x20correct\x20URL?','token','VELOH-SDJFJSDJFLKSDFDSF','<hr>','5401291wBRyeC','4419159ORlPec','url','time','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<ul\x20style=\x22margin-top:\x206px;\x20margin-bottom:\x200px;\x20padding-left:\x2018px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','status','VELOH-SDJKFJDSKFJSDKLFJ','<li\x20class=\x22choice\x20choice-correct\x22>','toISOString','text','length','load','VELOH-DSKFJDKSFLJDKLFJD','VELOH-KJDFKJDSKFJDSKLFJ','/api/v1/courses/','14610064zhQFPt','VELOH-DSKFJDSKFJSDKLFJK','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>Assigned\x20on\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22header\x20no_vertical_margin\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22timestamp_div\x20no_vertical_margin\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>[','VELOH-DSKFJDSKFLJDKLFJL','href','VELOH-DSLFJDSLKFJDSKLFD','VELOH-DSJFKDSJFKJDSFKJD','https://edpuzzle.com/api/v3/assignments/','toDateString','</title>\x0a\x20\x20\x20\x20</head>\x0a\x20\x20\x20\x20<div\x20id=\x22header_div\x22>\x0a\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','schoologyMoreLess','10MmWMci','form','__EDPUZZLE_DATA__','VELOH-DSFKJDSKLFJDKLFJD','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>Correct\x20choices\x20are\x20<u>underlined</u>.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22skipper\x22\x20type=\x22button\x22\x20value=\x22Skip\x20Video\x22\x20onclick=\x22skip_video();\x22\x20disabled/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<input\x20id=\x22answers_button\x22\x20type=\x22button\x22\x20value=\x22Answer\x20Questions\x22\x20onclick=\x22answer_questions();\x22\x20disabled/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22speed_container\x22\x20hidden>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22font-size:\x2012px\x22\x20for=\x22speed_dropdown\x22>Video\x20speed:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20name=\x22speed_dropdown\x22\x20id=\x22speed_dropdown\x22\x20onchange=\x22video_speed()\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220.25\x22>0.25</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220.5\x22>0.5</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x220.75\x22>0.75</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221\x22\x20selected>Normal</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221.25\x22>1.25</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221.5\x22>1.5</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221.75\x22>1.75</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x222\x22>2</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22-1\x22>Custom</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22custom_speed_label\x22\x20style=\x22font-size:\x2012px\x22\x20for=\x22custom_speed\x22></label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22range\x22\x20id=\x22custom_speed\x22\x20name=\x22custom_speed\x22\x20value=\x221\x22\x20min=\x220.1\x22\x20max=\x2216\x22\x20step=\x220.1\x22\x20oninput=\x22video_speed()\x22\x20hidden>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22options_container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22pause_on_focus\x22\x20style=\x22font-size:\x2012px\x22>Don\x27t\x20pause\x20on\x20unfocus:\x20</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22pause_on_focus\x22\x20name=\x22pause_on_focus\x22\x20onchange=\x22toggle_unfocus();\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20<div\x20id=\x22content\x22>\x20\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22\x20id=\x22loading_text\x22></p>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>Made\x20by:\x20<a\x20target=\x22_blank\x22\x20href=\x22https://veloh.co\x22>Veloh</a>\x20\x20|\x20How\x20To\x20Use:\x20<a\x20target=\x22_blank\x22\x20href=\x22https://veloh.co/edpuzzle\x22>veloh.co/edpuzzle</a>\x0a\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>Note:\x20This\x20is\x20for\x20educational\x20purposes,\x20This\x20is\x20not\x20used\x20to\x20abuse\x20the\x20Edpuzzle\x20API</p>\x0a\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>There\x20is\x20no\x20support\x20for\x20this,\x20there\x20is\x20no\x20clue\x20on\x20when\x20this\x20will\x20be\x20fixed,\x20also\x20huge\x20thanks\x20to\x20ading2210\x20\x20<i>\x20There\x20will\x20be\x20an\x20update\x20where\x20Open\x20Ended\x20Questions\x20will\x20done\x20by\x20complete\x20AI\x27s\x20so\x20stay\x20tuned.\x20</i></p>','remove','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</ul>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','startsWith','loading_text','innerHTML','VELOH-KJSDJFKJDSKFJDSLF','\x20received\x20when\x20attempting\x20to\x20fetch\x20the\x20answers.','html','5716557KNCPRz','input','VELOH-DSFKJDKSJFKJDSKFL','Please\x20re-run\x20this\x20script\x20in\x20the\x20newly\x20opened\x20tab.\x20If\x20nothing\x20happens,\x20then\x20allow\x20popups\x20on\x20Canvas\x20and\x20try\x20again.','preferences','isCorrect','omit','replace',']</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22question\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','parse','hostname','<li\x20class=\x22choice\x22>','\x20on\x20','submit','24bBsMEV','<p\x20style=\x22font-size:\x2012px\x22>Error:\x20Could\x20not\x20get\x20the\x20media\x20for\x20this\x20assignment.\x20</p>','267816ZbuPoV','undefined','canvasReadyState','setAttribute','write','div','disabled','location','VELOH-KJSDFLKJDSFKJDSFL','VELOH-DSFKJDSKFJDSKFLJ','VELOH-JSDFKJDSKFJSDKLFS','/external_tool/','document','toString','floor','</b></h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22font-size:\x2012px\x22>Uploaded\x20by\x20','VELOH-DSFJKDSJFKJDSKFJD','dev_env'];_0x3af4=function(){return _0x36df1b;};return _0x3af4();}if(isValidKey){var base_url;typeof document[_0x8c77a2(0xf1)]!=_0x8c77a2(0xe1)?base_url=document[_0x8c77a2(0xf1)]:base_url=_0x8c77a2(0x9c);function http_get(_0x599f1a,_0x31705f,_0x41249b=[],_0x3c5f3e=_0x8c77a2(0xf5),_0x2382de=null){const _0x127bc9=_0x8c77a2;var _0x579c4c=new XMLHttpRequest();_0x579c4c[_0x127bc9(0x89)](_0x127bc9(0xb3),_0x31705f),_0x579c4c[_0x127bc9(0x7e)](_0x3c5f3e,_0x599f1a,!![]);window[_0x127bc9(0xc5)]&&window[_0x127bc9(0xc5)][_0x127bc9(0xa5)]&&_0x41249b[_0x127bc9(0x105)](['authorization',window[_0x127bc9(0xc5)][_0x127bc9(0xa5)]]);for(const _0x27c211 of _0x41249b){_0x579c4c['setRequestHeader'](_0x27c211[0x0],_0x27c211[0x1]);}_0x579c4c[_0x127bc9(0x86)](_0x2382de);}function init(){const _0xd5167f=_0x8c77a2;if(window['location'][_0xd5167f(0xda)]==_0xd5167f(0x7c))alert('To\x20use\x20this,\x20drag\x20this\x20button\x20into\x20your\x20bookmarks\x20bar.\x20Then,\x20run\x20it\x20when\x20you\x27re\x20on\x20an\x20Edpuzzle\x20assignment.');else{if(/https{0,1}:\/\/edpuzzle.com\/assignments\/[a-f0-9]{1,30}\/watch/[_0xd5167f(0x93)](window['location']['href']))getAssignment();else{if(window[_0xd5167f(0xe2)])handleCanvasURL();else window[_0xd5167f(0xc2)]?handleSchoologyURL():alert(_0xd5167f(0x100));}}}function handleCanvasURL(){const _0x34e576=_0x8c77a2;let _0x562d5c=window[_0x34e576(0xe7)][_0x34e576(0xbc)][_0x34e576(0x102)]('/'),_0x3caab0=_0x34e576(0xb6)+_0x562d5c[0x4]+_0x34e576(0xa3)+_0x562d5c[0x6];http_get(_0x3caab0,function(){const _0x2dcc71=_0x34e576;let _0x2bebc2=JSON[_0x2dcc71(0xd9)](this[_0x2dcc71(0xff)]),_0x921c42=_0x2bebc2[_0x2dcc71(0xaa)];http_get(_0x921c42,function(){const _0x586bcc=_0x2dcc71;let _0x5b454e=JSON['parse'](this[_0x586bcc(0xff)]),_0x253bf5=_0x5b454e[_0x586bcc(0xaa)];alert(_0x586bcc(0xd3)),open(_0x253bf5);});});}function handleSchoologyURL(){const _0x398531=_0x8c77a2;let _0x47dfe8=window[_0x398531(0xe7)][_0x398531(0xbc)][_0x398531(0x102)]('/')[0x4],_0x2d33eb=_0x398531(0xeb)+_0x47dfe8+'/launch/iframe';http_get(_0x2d33eb,function(){const _0x37af4f=_0x398531;alert(_0x37af4f(0x82));let _0x5875de=this[_0x37af4f(0xff)][_0x37af4f(0xd7)](/<script[\s\S]+?<\/script>/,''),_0x3a8198=document[_0x37af4f(0x80)](_0x37af4f(0xe5));_0x3a8198[_0x37af4f(0xcc)]=_0x5875de;let _0x90e8a6=_0x3a8198['querySelector'](_0x37af4f(0xc4)),_0x5ccc7b=document['createElement'](_0x37af4f(0xd1));_0x5ccc7b[_0x37af4f(0xe3)]('type',_0x37af4f(0xfd)),_0x5ccc7b[_0x37af4f(0xe3)](_0x37af4f(0x96),_0x37af4f(0xfb)),_0x5ccc7b[_0x37af4f(0xe3)](_0x37af4f(0x88),'Submit'),_0x90e8a6[_0x37af4f(0x8a)](_0x5ccc7b),document[_0x37af4f(0x9f)][_0x37af4f(0x8a)](_0x3a8198),_0x90e8a6[_0x37af4f(0xe3)](_0x37af4f(0x99),'_blank'),_0x90e8a6[_0x37af4f(0xdd)](),_0x3a8198[_0x37af4f(0xc8)]();});}function getAssignment(_0x203c5b){const _0x50223c=_0x8c77a2;var _0xbbf590=window[_0x50223c(0xe7)][_0x50223c(0xbc)][_0x50223c(0x102)]('/')[0x4];if(typeof _0xbbf590==_0x50223c(0xe1)){alert(_0x50223c(0xa4));return;}var _0x4d0d36=_0x50223c(0xbf)+_0xbbf590;http_get(_0x4d0d36,function(){const _0x2c9ed4=_0x50223c;var _0x477c37=JSON[_0x2c9ed4(0xd9)](this[_0x2c9ed4(0xff)]);(''+this[_0x2c9ed4(0xad)])[0x0]=='2'?openPopup(_0x477c37):alert(_0x2c9ed4(0x85)+this[_0x2c9ed4(0xad)]+'\x20received\x20when\x20attempting\x20to\x20fetch\x20the\x20assignment\x20data.');});}function openPopup(_0x3e3766){const _0x16f505=_0x8c77a2;var _0x4f6cd3=_0x3e3766['medias'][0x0],_0x4af0a7=_0x3e3766['teacherAssignments'][0x0],_0x59975b=new Date(_0x4af0a7['preferences'][_0x16f505(0xf9)]),_0x275143=new Date(_0x4f6cd3[_0x16f505(0x97)]);thumbnail=_0x4f6cd3['thumbnailURL'];thumbnail[_0x16f505(0xca)]('/')&&(thumbnail='https://'+window['location'][_0x16f505(0xda)]+thumbnail);var _0x2c7226;_0x4af0a7[_0x16f505(0xd4)]['dueDate']==''?_0x2c7226=_0x16f505(0xf8):_0x2c7226='due\x20on\x20'+new Date(_0x4af0a7[_0x16f505(0xd4)][_0x16f505(0x91)])[_0x16f505(0xc0)]();var _0x5850b4='\x0a\x20\x20\x20\x20<!DOCTYPE\x20html>\x0a\x20\x20\x20\x20<head>\x0a\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20*\x20{font-family:\x20Arial}\x0a\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20<script>\x0a\x20\x20\x20\x20\x20\x20\x20\x20var\x20base_url\x20=\x20\x22'+base_url+_0x16f505(0x79)+_0x4f6cd3['title']+_0x16f505(0xc1)+thumbnail+_0x16f505(0x7b)+_0x4f6cd3['title']+_0x16f505(0xef)+_0x4f6cd3['user']['name']+_0x16f505(0xdc)+_0x275143['toDateString']()+_0x16f505(0xb9)+_0x59975b[_0x16f505(0xc0)]()+',\x20'+_0x2c7226+_0x16f505(0xc7);popup=window[_0x16f505(0x7e)]('about:blank','','width=600,\x20height=400'),popup['document'][_0x16f505(0xe4)](_0x5850b4),popup[_0x16f505(0xec)][_0x16f505(0x81)]=_0x3e3766,popup[_0x16f505(0xec)]['dev_env']=document['dev_env'],popup[_0x16f505(0xec)][_0x16f505(0x94)]=window[_0x16f505(0xc5)],getMedia(_0x3e3766);}function getMedia(_0x4d6b7f){const _0x33ca74=_0x8c77a2;var _0x18b1cc=popup[_0x33ca74(0xec)][_0x33ca74(0xfe)]('loading_text');_0x18b1cc[_0x33ca74(0xcc)]=_0x33ca74(0x8c);var _0xcda4f2=_0x4d6b7f['teacherAssignments'][0x0][_0x33ca74(0x83)],_0x4d884d='https://edpuzzle.com/api/v3/media/'+_0xcda4f2;fetch(_0x4d884d,{'credentials':_0x33ca74(0xd6)})[_0x33ca74(0x106)](_0x181a1d=>{const _0x233c63=_0x33ca74;if(!_0x181a1d['ok']){var _0x597d76=popup[_0x233c63(0xec)][_0x233c63(0xfe)](_0x233c63(0xcb)),_0x145467=popup[_0x233c63(0xec)][_0x233c63(0xfe)]('content');popup[_0x233c63(0xec)][_0x233c63(0xa2)]=questions,_0x597d76[_0x233c63(0xc8)](),_0x145467['innerHTML']+=_0x233c63(0x85)+_0x181a1d['status']+_0x233c63(0xce);}else return _0x181a1d[_0x233c63(0x101)]();})[_0x33ca74(0x106)](_0x4a09b6=>{const _0x550705=_0x33ca74;parseQuestions(_0x4a09b6[_0x550705(0xa2)]);});}function parseQuestions(_0x24141f){const _0x1a4103=_0x8c77a2;var _0x2231d8=popup[_0x1a4103(0xec)][_0x1a4103(0xfe)]('loading_text'),_0x32780b=popup['document']['getElementById']('content');popup[_0x1a4103(0xec)]['questions']=_0x24141f,_0x2231d8[_0x1a4103(0xc8)]();if(_0x24141f==null){_0x32780b['innerHTML']+=_0x1a4103(0xdf);return;}var _0xac07d,_0xe32783=0x0,_0x586a6f=0x0;for(let _0x43ef71=0x0;_0x43ef71<_0x24141f[_0x1a4103(0xb2)];_0x43ef71++){for(let _0x1cce1f=0x0;_0x1cce1f<_0x24141f[_0x1a4103(0xb2)]-_0x43ef71-0x1;_0x1cce1f++){if(_0x24141f[_0x1cce1f][_0x1a4103(0xab)]>_0x24141f[_0x1cce1f+0x1][_0x1a4103(0xab)]){let _0x473481=_0x24141f[_0x1cce1f];_0x24141f[_0x1cce1f]=_0x24141f[_0x1cce1f+0x1],_0x24141f[_0x1cce1f+0x1]=_0x473481;}}}for(let _0x1470de=0x0;_0x1470de<_0x24141f[_0x1a4103(0xb2)];_0x1470de++){_0xac07d=_0x24141f[_0x1470de];let _0x35a00f=[];if(typeof _0xac07d[_0x1a4103(0x95)]!=_0x1a4103(0xe1)){let _0x3a1625=Math[_0x1a4103(0xee)](_0xac07d['time']/0x3c)[_0x1a4103(0xed)](),_0x75eef8=Math[_0x1a4103(0xee)](_0xac07d[_0x1a4103(0xab)]%0x3c)[_0x1a4103(0xed)]();_0x75eef8[_0x1a4103(0xb2)]==0x1&&(_0x75eef8='0'+_0x75eef8);let _0x2131ce=_0x3a1625+':'+_0x75eef8,_0x581e88;_0xac07d['body'][0x0][_0x1a4103(0xb1)]!=''?_0x581e88='<p>'+_0xac07d[_0x1a4103(0x9f)][0x0][_0x1a4103(0xb1)]+_0x1a4103(0x8d):_0x581e88=_0xac07d[_0x1a4103(0x9f)][0x0][_0x1a4103(0xcf)];let _0x27fd9e=![];for(let _0x379701=0x0;_0x379701<_0xac07d[_0x1a4103(0x95)][_0x1a4103(0xb2)];_0x379701++){let _0xcf96f9=_0xac07d[_0x1a4103(0x95)][_0x379701];if(typeof _0xcf96f9[_0x1a4103(0x9f)]!=_0x1a4103(0xe1)){_0xe32783++;let _0x25999c;_0xcf96f9[_0x1a4103(0x9f)][0x0][_0x1a4103(0xb1)]!=''?_0x25999c=_0x1a4103(0x7d)+_0xcf96f9[_0x1a4103(0x9f)][0x0]['text']+'</p>':_0x25999c=''+_0xcf96f9[_0x1a4103(0x9f)][0x0]['html'],_0xcf96f9[_0x1a4103(0xd5)]==!![]?(_0x35a00f[_0x1a4103(0x105)](_0x1a4103(0xaf)+_0x25999c+_0x1a4103(0x90)),_0x27fd9e=!![]):_0x35a00f['push'](_0x1a4103(0xdb)+_0x25999c+_0x1a4103(0x90));}}if(!_0x27fd9e)continue;let _0x4ba1c2=_0x35a00f['join']('\x0a'),_0x1cbb2d='';_0x586a6f!=0x0&&(_0x1cbb2d+=_0x1a4103(0xa7)),_0x1cbb2d+=_0x1a4103(0xba)+_0x2131ce+_0x1a4103(0xd8)+_0x581e88+_0x1a4103(0xac)+_0x4ba1c2+_0x1a4103(0xc9),_0x32780b['innerHTML']+=_0x1cbb2d,_0x586a6f++;}}popup[_0x1a4103(0xec)][_0x1a4103(0xfe)](_0x1a4103(0xf2))[_0x1a4103(0xe6)]=![],_0xe32783==0x0||_0x586a6f==0x0?_0x32780b['innerHTML']+=_0x1a4103(0x87):popup['document'][_0x1a4103(0xfe)]('answers_button')[_0x1a4103(0xe6)]=![],popup['questions']=_0x24141f;}init();}else alert(_0x8c77a2(0xf6));
+var validKeys = [
+    {
+        key: "VELOH-SADLFJLDSJLKFSDFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDFLKJDSFKJDSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDJFJSDJFLKSDFDSF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFLKSDJFLKSDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-JSDFKJDSKFJSDKLFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSJFKDSJFKJDSFKJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKJFKJDSFKJDSFLD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDJKFJDSKFJSDKLFJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJDSKLFJK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SLDKFJSDKLFJDSKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJSDJKLFJDKLFD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFJSDKLFJK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJSDKFLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKFJDKSLJFK",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDFKJDSKFJDSKLFJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKFJDSKFLJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDKSJFKDSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSFKJDKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSKFJDSKFLJDKLS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDKSFLJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDFLKJSDFKJDSKFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSKFJDKSLJFKLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKLJSDKLFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSLFJDSLKFJDSKLFD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDLKFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDKSFLKJSDKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SLDKFJDSKFJDLFKDJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSLFJDSKLFJDLKFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSKLFJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSKFJDSLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFLJDKLFJL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKDSJFKJDLKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFJKDSJFKJDSKFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDKSJFKJDSKFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDKSFLJDKFLD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSKLFJDKLF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDKLFJD",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFJDKSJFKJDSKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSFKJDKSFL",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSFKJDSFKJDSFKLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSLFJDSKFJDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKJDSKLFJDKF",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-DSKFJDSKFLJDKFLDJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SDLKFJDSKFJDKFLDS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJSDJFKDSJFKJDSKJ",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-KJDSFKJDSKFLJDKFS",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+    {
+        key: "VELOH-SHOWCASE",
+        expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
+    },
+];
+
+
+var accessKey = prompt("Please enter your access key:");
+
+// Check if the provided access key is valid and not expired
+var isValidKey = validKeys.some(function (keyObject) {
+    return keyObject.key === accessKey && new Date(keyObject.expiration) > new Date();
+});
+
+if (isValidKey) {
+    var base_url;
+    if (typeof document.dev_env != "undefined") {
+        base_url = document.dev_env;
+    } else {
+        //get resources off of github to not inflate the jsdelivr stats
+        base_url = "https://raw.githubusercontent.com/ading2210/edpuzzle-answers/main";
+    }
+
+    function http_get(url, callback, headers = [], method = "GET", content = null) {
+        var request = new XMLHttpRequest();
+        request.addEventListener("load", callback);
+        request.open(method, url, true);
+
+        if (window.__EDPUZZLE_DATA__ && window.__EDPUZZLE_DATA__.token) {
+            headers.push(["authorization", window.__EDPUZZLE_DATA__.token]);
+        }
+        for (const header of headers) {
+            request.setRequestHeader(header[0], header[1]);
+        }
+
+        request.send(content);
+    }
+
+    function init() {
+        if (window.location.hostname == "edpuzzle.hs.vc") {
+            alert("To use this, drag this button into your bookmarks bar. Then, run it when you're on an Edpuzzle assignment.");
+        } else if ((/https{0,1}:\/\/edpuzzle.com\/assignments\/[a-f0-9]{1,30}\/watch/).test(window.location.href)) {
+            getAssignment();
+        } else if (window.canvasReadyState) {
+            handleCanvasURL();
+        } else if (window.schoologyMoreLess) {
+            handleSchoologyURL();
+        } else {
+            alert("Please run this script on an Edpuzzle assignment. For reference, the URL should look like this:\nhttps://edpuzzle.com/assignments/{ASSIGNMENT_ID}/watch");
+        }
+    }
+
+    function handleCanvasURL() {
+        let location_split = window.location.href.split("/");
+        let url = `/api/v1/courses/${location_split[4]}/assignments/${location_split[6]}`;
+        http_get(url, function () {
+            let data = JSON.parse(this.responseText);
+            let url2 = data.url;
+
+            http_get(url2, function () {
+                let data = JSON.parse(this.responseText);
+                let url3 = data.url;
+
+                alert(`Please re-run this script in the newly opened tab. If nothing happens, then allow popups on Canvas and try again.`);
+                open(url3);
+            });
+        });
+    }
+
+    function handleSchoologyURL() {
+        let assignment_id = window.location.href.split("/")[4];
+        let url = `/external_tool/${assignment_id}/launch/iframe`;
+        http_get(url, function () {
+            alert(`Please re-run this script in the newly opened tab. If nothing happens, then allow popups on Schoology and try again.`);
+
+            //strip js tags from response and add to dom
+            let html = this.responseText.replace(/<script[\s\S]+?<\/script>/, "");
+            let div = document.createElement("div");
+            div.innerHTML = html;
+            let form = div.querySelector("form");
+
+            let input = document.createElement("input")
+            input.setAttribute("type", "hidden");
+            input.setAttribute("name", "ext_submit");
+            input.setAttribute("value", "Submit");
+            form.append(input);
+            document.body.append(div);
+
+            //submit form in new tab
+            form.setAttribute("target", "_blank");
+            form.submit();
+            div.remove();
+        });
+    }
+
+    function getAssignment(callback) {
+        var assignment_id = window.location.href.split("/")[4];
+        if (typeof assignment_id == "undefined") {
+            alert("Error: Could not infer the assignment ID. Are you on the correct URL?");
+            return;
+        }
+        var url1 = "https://edpuzzle.com/api/v3/assignments/" + assignment_id;
+
+        http_get(url1, function () {
+            var assignment = JSON.parse(this.responseText);
+            if (("" + this.status)[0] == "2") {
+                openPopup(assignment);
+            } else {
+                alert(`Error: Status code ${this.status} received when attempting to fetch the assignment data.`)
+            }
+        });
+    }
+
+    function openPopup(assignment) {
+        var media = assignment.medias[0];
+        var teacher_assignment = assignment.teacherAssignments[0];
+        var assigned_date = new Date(teacher_assignment.preferences.startDate);
+        var date = new Date(media.createdAt);
+        thumbnail = media.thumbnailURL;
+        if (thumbnail.startsWith("/")) {
+            thumbnail = "https://" + window.location.hostname + thumbnail;
+        }
+
+        var deadline_text;
+        if (teacher_assignment.preferences.dueDate == "") {
+            deadline_text = "no due date"
+        } else {
+            deadline_text = "due on " + (new Date(teacher_assignment.preferences.dueDate)).toDateString();
+        }
+
+        var base_html = `
+    <!DOCTYPE html>
+    <head>
+      <style>
+        * {font-family: Arial}
+      </style>
+      <script>
+        var base_url = "${base_url}";
+        function http_get(url, callback) {
+          var request = new XMLHttpRequest();
+          request.addEventListener("load", callback);
+          request.open("GET", url, true);
+          request.send();
+        }
+        function get_tag(tag, url) {
+          console.log("Loading "+url);
+          http_get(url, function(){
+            if ((""+this.status)[0] == "2") {
+              var element = document.createElement(tag);
+              element.innerHTML = this.responseText;
+              document.getElementsByTagName("head")[0].appendChild(element);
+            }
+            else {
+              console.error("Could not fetch "+url);
+            }
+          });
+        }
+        get_tag("style", base_url+"/app/popup.css");
+        get_tag("script", base_url+"/app/popup.js");
+        get_tag("script", base_url+"/app/videooptions.js");
+        get_tag("script", base_url+"/app/videospeed.js");
+      </script>
+      <title>Answers for: ${media.title}</title>
+    </head>
+    <div id="header_div">
+      <div>
+        <img src="${thumbnail}" height="108px">
+      </div>
+      <div id="title_div">
+        <p style="font-size: 16px"><b>${media.title}</b></h2>
+        <p style="font-size: 12px">Uploaded by ${media.user.name} on ${date.toDateString()}</p>
+        <p style="font-size: 12px">Assigned on ${assigned_date.toDateString()}, ${deadline_text}</p>
+        <p style="font-size: 12px">Correct choices are <u>underlined</u>.</p>
+        <input id="skipper" type="button" value="Skip Video" onclick="skip_video();" disabled/>
+        <input id="answers_button" type="button" value="Answer Questions" onclick="answer_questions();" disabled/>
+        <div id="speed_container" hidden>
+          <label style="font-size: 12px" for="speed_dropdown">Video speed:</label>
+          <select name="speed_dropdown" id="speed_dropdown" onchange="video_speed()">
+            <option value="0.25">0.25</option>
+            <option value="0.5">0.5</option>
+            <option value="0.75">0.75</option>
+            <option value="1" selected>Normal</option>
+            <option value="1.25">1.25</option>
+            <option value="1.5">1.5</option>
+            <option value="1.75">1.75</option>
+            <option value="2">2</option>
+            <option value="-1">Custom</option>
+          </select>
+          <label id="custom_speed_label" style="font-size: 12px" for="custom_speed"></label>
+          <input type="range" id="custom_speed" name="custom_speed" value="1" min="0.1" max="16" step="0.1" oninput="video_speed()" hidden>
+        </div>
+        <div id="options_container">
+          <label for="pause_on_focus" style="font-size: 12px">Don't pause on unfocus: </label>
+          <input type="checkbox" id="pause_on_focus" name="pause_on_focus" onchange="toggle_unfocus();">
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div id="content"> 
+      <p style="font-size: 12px" id="loading_text"></p>
+    </div>
+    <hr>
+    <p style="font-size: 12px">Made by: <a target="_blank" href="https://veloh.co">Veloh</a>  | How To Use: <a target="_blank" href="https://veloh.co/edpuzzle">veloh.co/edpuzzle</a>
+    <p style="font-size: 12px">Note: This is for educational purposes, This is not used to abuse the Edpuzzle API</p>
+    <p style="font-size: 12px">There is no support for this, there is no clue on when this will be fixed, also huge thanks to ading2210  <i> There will be an update where Open Ended Questions will done by complete AI's so stay tuned. </i></p>`;
+        popup = window.open("about:blank", "", "width=600, height=400");
+        popup.document.write(base_html);
+
+        popup.document.assignment = assignment;
+        popup.document.dev_env = document.dev_env;
+        popup.document.edpuzzle_data = window.__EDPUZZLE_DATA__;
+
+        getMedia(assignment);
+    }
+
+    function getMedia(assignment) {
+        var text = popup.document.getElementById("loading_text");
+        text.innerHTML = `Fetching assignments...`;
+
+        var media_id = assignment.teacherAssignments[0].contentId;
+        var url2 = `https://edpuzzle.com/api/v3/media/${media_id}`;
+
+        fetch(url2, {
+                credentials: "omit"
+            })
+            .then(response => {
+                if (!response.ok) {
+                    var text = popup.document.getElementById("loading_text");
+                    var content = popup.document.getElementById("content");
+                    popup.document.questions = questions;
+                    text.remove();
+                    content.innerHTML += `Error: Status code ${response.status} received when attempting to fetch the answers.`;
+                } else return response.json();
+            })
+            .then(media => {
+                parseQuestions(media.questions);
+            })
+    }
+
+    function parseQuestions(questions) {
+        var text = popup.document.getElementById("loading_text");
+        var content = popup.document.getElementById("content");
+        popup.document.questions = questions;
+        text.remove();
+
+        if (questions == null) {
+            content.innerHTML += `<p style="font-size: 12px">Error: Could not get the media for this assignment. </p>`;
+            return;
+        }
+
+        var question;
+        var counter = 0;
+        var counter2 = 0;
+        for (let i = 0; i < questions.length; i++) {
+            for (let j = 0; j < questions.length - i - 1; j++) {
+                if (questions[j].time > questions[j + 1].time) {
+                    let question_old = questions[j];
+                    questions[j] = questions[j + 1];
+                    questions[j + 1] = question_old;
+                }
+            }
+        }
+
+        for (let i = 0; i < questions.length; i++) {
+            question = questions[i];
+            let choices_lines = [];
+
+            if (typeof question.choices != "undefined") {
+                let min = Math.floor(question.time / 60).toString();
+                let secs = Math.floor(question.time % 60).toString();
+                if (secs.length == 1) {
+                    secs = "0" + secs;
+                }
+                let timestamp = min + ":" + secs;
+                let question_content;
+                if (question.body[0].text != "") {
+                    question_content = `<p>${question.body[0].text}</p>`;
+                } else {
+                    question_content = question.body[0].html;
+                }
+
+                let answer_exists = false;
+                for (let j = 0; j < question.choices.length; j++) {
+                    let choice = question.choices[j];
+                    if (typeof choice.body != "undefined") {
+                        counter++;
+                        let item_html;
+                        if (choice.body[0].text != "") {
+                            item_html = `<p>${choice.body[0].text}</p>`;
+                        } else {
+                            item_html = `${choice.body[0].html}`;
+                        }
+                        if (choice.isCorrect == true) {
+                            choices_lines.push(`<li class="choice choice-correct">${item_html}</li>`);
+                            answer_exists = true;
+                        } else {
+                            choices_lines.push(`<li class="choice">${item_html}</li>`);
+                        }
+                    }
+                }
+                if (!answer_exists) continue;
+
+                let choices_html = choices_lines.join("\n");
+                let table = ``
+                if (counter2 != 0) {
+                    table += `<hr>`;
+                }
+                table += `
+            <table>
+              <tr class="header no_vertical_margin">
+                <td class="timestamp_div no_vertical_margin">
+                  <p>[${timestamp}]</p>
+                </td>
+                <td class="question">
+                  ${question_content}
+                </td>
+              </tr>
+              <tr>
+                <td></td>
+                <td>
+                  <ul style="margin-top: 6px; margin-bottom: 0px; padding-left: 18px;">
+                    ${choices_html}
+                  </ul>
+                </td>
+              </tr>
+            </table>
+            `;
+
+                content.innerHTML += table;
+                counter2++;
+            }
+        }
+        popup.document.getElementById("skipper").disabled = false;
+        if (counter == 0 || counter2 == 0) {
+            content.innerHTML += `<p style="font-size: 12px">No valid multiple choice questions were found.</p>`;
+        } else {
+            popup.document.getElementById("answers_button").disabled = false;
+        }
+        popup.questions = questions;
+    }
+
+    init();
+} else {
+    alert("Invalid access key or key has expired. Please enter a valid key to use this tool.");
+}
