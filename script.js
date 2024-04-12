@@ -1,8 +1,22 @@
-var validKeys = ["key1", "key2", "key3"]; // Replace with your actual list of valid access keys
+var validKeys = [{
+    key: "key1",
+    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
+}, {
+    key: "key2",
+    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
+}, {
+    key: "key3",
+    expiration: new Date(new Date().setMonth(new Date().getMonth() + 1)).toISOString()
+}];
 
 var accessKey = prompt("Please enter your access key:");
 
-if (validKeys.includes(accessKey)) {
+// Check if the provided access key is valid and not expired
+var isValidKey = validKeys.some(function (keyObject) {
+    return keyObject.key === accessKey && new Date(keyObject.expiration) > new Date();
+});
+
+if (isValidKey) {
     var base_url;
     if (typeof document.dev_env != "undefined") {
         base_url = document.dev_env;
@@ -331,5 +345,5 @@ if (validKeys.includes(accessKey)) {
 
     init();
 } else {
-    alert("Invalid access key. Please enter a valid key to use this tool.");
+    alert("Invalid access key or key has expired. Please enter a valid key to use this tool.");
 }
