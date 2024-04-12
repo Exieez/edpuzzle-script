@@ -178,7 +178,7 @@ var validKeys = [
     {
         key: "VELOH-KJSDJFKDSJFKJDSKJ",
         expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
-    },
+    }
     {
         key: "VELOH-KJDSFKJDSKFLJDKFS",
         expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
@@ -186,7 +186,7 @@ var validKeys = [
     {
         key: "VELOH-SHOWCASE",
         expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
-    }
+    },
 ];
 
 
