@@ -184,7 +184,7 @@ var validKeys = [
         expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
     },
     {
-        key: "VELOH-SHOWCASE",
+        key: "nigger",
         expiration: new Date(new Date().getTime() + 5 * 60 * 1000).toISOString()
     },
 ];
